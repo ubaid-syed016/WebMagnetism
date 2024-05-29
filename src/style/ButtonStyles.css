@@ -1,0 +1,14 @@
+.borderbtn{
+    border:1px solid white;
+    color:white;
+    background: transparent;
+    background: linear-gradient(90deg, rgba(138,101,229,1) 0%, rgba(175,114,209,1) 35%, rgba(222,131,138,1) 100%);
+    
+}
+.btn{
+    border:none;
+    color:white;
+    background: rgb(138,101,229);
+    background: linear-gradient(90deg, rgba(138,101,229,1) 0%, rgba(175,114,209,1) 35%, rgba(222,131,138,1) 100%);
+    
+}
